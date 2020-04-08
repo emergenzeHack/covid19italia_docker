@@ -1,4 +1,4 @@
-# Developing with docker
+# Covid19Italia development runtime Dockerfile
 
 This is a simple DockerFile for generating an image to quickly set-up your Jekyll development environment on Windows or MacOS.
 
